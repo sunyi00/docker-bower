@@ -1,4 +1,4 @@
-FROM debian:trusty
+FROM ubuntu:trusty
 
 MAINTAINER "sunyi00" <sunyi00@gmail.com>
 
